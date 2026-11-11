@@ -11,7 +11,6 @@ Third-year BSc (Hons) Computing student at **Technological University Dublin**. 
 | [ai-pdf-extractor](https://github.com/OlexandrYar/ai-pdf-extractor) | Batch pipeline that turns PDF invoices into structured CSV data, with every model response validated | Python, Claude API, pdfplumber, Pydantic |
 | [timetable-bot](https://github.com/OlexandrYar/timetable-bot) | Telegram bot that gives TU Dublin students their daily class timetable in one tap | Python, aiogram, Playwright, BeautifulSoup |
 | [AmazonScrapper](https://github.com/OlexandrYar/AmazonScrapper) | Web app that compares Amazon prices across Irish, UK and German stores, with CSV export | Python, Flask, BeautifulSoup, JavaScript |
-| [oyl](https://github.com/OlexandrYar/oyl) | My own toy programming language and its compiler (work in progress) | Java |
 
 ## Tech I work with
 
