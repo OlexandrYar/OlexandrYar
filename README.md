@@ -22,3 +22,4 @@ Third-year BSc (Hons) Computing student at **Technological University Dublin**. 
 ## Get in touch
 
 - LinkedIn: [oleksandr-yarovyi](https://www.linkedin.com/in/oleksandr-yarovyi-97a717354)
+- Email: [me@yarovyi.dev](mailto:me@yarovyi.dev)
